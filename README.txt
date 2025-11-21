@@ -1,0 +1,1 @@
+Angular Pharma - Fixed Vite + React starter\nIncludes @vitejs/plugin-react in devDependencies.\nRun: npm install && npm run build\n
